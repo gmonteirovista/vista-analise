@@ -1,0 +1,1 @@
+ValDate	TradingDesk	NAV	Share
