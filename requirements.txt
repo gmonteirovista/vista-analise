@@ -61,7 +61,7 @@ DateTime==4.3
 decorator==4.4.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-distributed==2.5.2
+distributed==2021.10.0
 docutils==0.15.2
 EasyProcess==0.2.10
 engineering-notation==0.6.0
